@@ -1,5 +1,7 @@
 <h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
+  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Alex+Chica;Software+Engineering+Student;Cooking+Projects;%40theoriginalex;Universidad+Estatal+De+Milagro">
 </p>
 <p align='center'>
