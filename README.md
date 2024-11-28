@@ -13,32 +13,6 @@
 </p>
 <br>
 
-## Github Contribution Streak 🔥 
-<br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-
-<hr><br>
-
-## Github Stats &nbsp;📊
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=chinmay29hub&show_icons=true&theme=github_dark">
-</p>
-<hr>
-<br>
-
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-<p align='center'>
-<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
-</p>
-
-<hr>
-<br>
-
 ## Technology Stack 💻
 
 <p align='center'>
@@ -115,54 +89,6 @@
 </p>
 <br>
 
-### Hosting 🌎 :
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="121" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
-</p>
-<br>
-
-### Server 🗃️ :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
-</p>
-<br>
-
-### Database 💾 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-<br>
-
-### ML/DL 🤖/🧠 :
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/QyJTDR8VkUtyKHNPm9/giphy.gif" width="270" height="174" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;
-</p>
-<br>
-
-### IOT 🔌 :
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="410" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
-</p>
-<br>
-
 ### Operating Systems 🐧 :
 <br>
 <p align='center'>
@@ -180,31 +106,7 @@
 <hr>
 <br>
 
-## Github Contributions 📈
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=chinmay29hub&theme=react-dark&hide_border=true">
-<p>
 
-<hr>
-<br>
-
-## Just a snake eating my contributions 🐍
-<p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
-</p>
-
-<hr>
-<br>
-
-## Waka Time Stats 🕰
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chinmay29hub&theme=github_dark">
-</p>
-
-<hr>
-<br>
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
@@ -216,7 +118,4 @@
 <h2 align='center'>Thank You!!!!!</h2>
 <br>
 
-------
-Credit : [chinmay29hub](https://github.com/chinmay29hub)
 
-Last Edited on : 20/12/2021
